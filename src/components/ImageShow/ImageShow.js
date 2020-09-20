@@ -6,6 +6,7 @@ const useStyles = makeStyles({
     height: "200px",
     borderRadius: "100px",
     border: "1px solid green",
+    marginTop: "25px",
   },
 });
 
